@@ -1,0 +1,7 @@
+{
+  "name": "AffiliateHub - Global Link Distributor",
+  "description": "A high-performance platform to manage, optimize, and share affiliate links across India and the world.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
